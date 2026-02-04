@@ -2,7 +2,7 @@ import argparse
 import sys
 
 from backup import create_backup
-from logger import setup_logger
+from logger import setup_logger.
 
 
 def main():
